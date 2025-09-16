@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.listen(PORT, () => {
     console.log(`
-Don't Forget To Give Star CASEYRHODES-XMD
+Don't Forget To Give Star 𝗖𝗥𝗬𝗣𝗧𝗜𝗫-𝗠𝗗
 
  Server running on http://localhost:` + PORT)
 })
