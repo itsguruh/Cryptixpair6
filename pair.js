@@ -81,7 +81,7 @@ var randomItem = selectRandomItem(items);
 
 > Do not share your session id with anyone.
 
- *Thanks for CASEYRHODES-XMD* 
+ *Thanks for CRYPTIX-MD* 
 
 > Join WhatsApp Channel :- ⤵️
  
@@ -89,7 +89,7 @@ var randomItem = selectRandomItem(items);
 
 Dont forget to fork the repo ⬇️
 
-https://github.com/caseyweb/CASEYRHODES-XMD
+https://github.com/itsguruh/CRYPTIX-MD
 
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ*`; 
                         await sock.sendMessage(sock.user.id, {
@@ -112,7 +112,7 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "CASEYRHODES-XMD",
+title: "CRYPTIX-MD",
 thumbnailUrl: "https://files.catbox.moe/mg79db.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26",
 mediaType: 2,
